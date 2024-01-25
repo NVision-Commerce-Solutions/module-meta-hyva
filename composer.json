@@ -1,6 +1,6 @@
 {
   "name": "nvision/commerce365-hyva",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Commerce 365 for Magento (Hyva Support) - Meta module",
   "homepage" : "https://n.vision",
   "license": [
@@ -10,7 +10,7 @@
     "php": ">=7.3.0",
     "magento/framework": ">=102.0.0",
     "commerce365/module-core": "^1.2",
-    "commerce365/module-customer-price": "^1.7",
+    "commerce365/module-customer-price": "^1.8",
     "commerce365/module-invoices": "^1.1",
     "commerce365/module-orders": "^1.1",
     "commerce365/module-creditmemos": "^1.1",
